@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="23ba943762a5483da9a5a48141d28f70" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="BD_FARMACIAModel.ADVERTENCIA" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.DISTRITO" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.FARMACIA" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.FAVORITO" Width="1.5" PointX="5.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.FORMA_USO" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.LABORATORIO" Width="1.5" PointX="0.75" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.MEDICAMENTO" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.MEDICAMENTO_FARMACIA" Width="1.5" PointX="5.25" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.PERSONA" Width="1.5" PointX="5.25" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.PRESENTACION" Width="1.5" PointX="0.75" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.PROMOCION" Width="1.5" PointX="5.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.SINTOMA" Width="1.5" PointX="0.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_FARMACIAModel.USUARIO" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_ADVERTENCIA" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.FARMACIA_DISTRITO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_FARMACIA_FARMACIA" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.PROMOCION_FARMACIA" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.FAVORITO_MEDICAMENTO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.FAVORITO_USUARIO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_FORMA_USO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_LABORATORIO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_FARMACIA_MEDICAMENTO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_PRESENTACION" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.MEDICAMENTO_SINTOMA" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.PROMOCION_MEDICAMENTO" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_FARMACIAModel.PERSONA_USUARIO" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,34 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Farma.pe.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,10" Background="#FF4A9BC3">
+            <Image Source="/imagenes/logo.png" Margin="93,46,95,498" />
+            <TextBlock x:Name="lblUsuario" HorizontalAlignment="Left" Margin="41,260,0,0" TextWrapping="Wrap" Text="Usuario:" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="30"/>
+            <TextBox x:Name="txtUsuario" Margin="16,295,13,385" TextWrapping="Wrap"  Text="" Foreground="Black" BorderBrush="Black" Background="#CCF09E89" FontSize="30" FontFamily="Comic Sans MS"/>
+            <TextBlock x:Name="lblContrasena" HorizontalAlignment="Left" Margin="41,0,0,350" TextWrapping="Wrap" Text="Contraseña:" VerticalAlignment="Bottom" FontFamily="Comic Sans MS" FontSize="30"/>
+            <PasswordBox x:Name="txtContrasena" Margin="16,408,13,0"  VerticalAlignment="Top" Foreground="Black" BorderBrush="Black" Background="#CCF09E89" FontSize="30" FontFamily="Comic Sans MS"/>
+            <CheckBox x:Name="chkRecordarme" Content="Recordarme" Margin="115,486,104,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="26"/>
+            <Button x:Name="btnIngresar" Content="Iniciar Sesión" Margin="64,596,61,79" FontFamily="Comic Sans MS" FontSize="30" BorderBrush="Black" Background="#CCF09E89" Foreground="White" Click="btnIngresar_Click" />
+            <Button x:Name="btnRegistrarte" Content="Registrate" Margin="64,667,61,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="30" BorderBrush="Black" Background="#CCEB9F84" Foreground="White" Click="btnRegistrarte_Click"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

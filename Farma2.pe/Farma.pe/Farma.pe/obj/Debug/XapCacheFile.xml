@@ -1,0 +1,121 @@
+<<<<<<< HEAD
+﻿<xapCache source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\Farma.pe_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/9/2016 12:55:03 AM">
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="7/9/2016 12:26:13 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\obj\Debug\Farma.pe.dll" archivePath="Farma.pe.dll" lastWriteTime="7/9/2016 12:54:59 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\1.png" archivePath="imagenes\farmacias\1.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\10.png" archivePath="imagenes\farmacias\10.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\11.png" archivePath="imagenes\farmacias\11.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\12.png" archivePath="imagenes\farmacias\12.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\13.png" archivePath="imagenes\farmacias\13.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\14.png" archivePath="imagenes\farmacias\14.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\15.png" archivePath="imagenes\farmacias\15.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\16.png" archivePath="imagenes\farmacias\16.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\17.png" archivePath="imagenes\farmacias\17.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\18.png" archivePath="imagenes\farmacias\18.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\19.png" archivePath="imagenes\farmacias\19.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\2.png" archivePath="imagenes\farmacias\2.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\20.png" archivePath="imagenes\farmacias\20.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\3.png" archivePath="imagenes\farmacias\3.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\4.png" archivePath="imagenes\farmacias\4.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\5.png" archivePath="imagenes\farmacias\5.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\6.png" archivePath="imagenes\farmacias\6.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\7.png" archivePath="imagenes\farmacias\7.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\8.png" archivePath="imagenes\farmacias\8.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\farmacias\9.png" archivePath="imagenes\farmacias\9.png" lastWriteTime="7/9/2016 12:02:33 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\flechaDerecha.png" archivePath="imagenes\flechaDerecha.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\calendar.png" archivePath="imagenes\calendar.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\logo.png" archivePath="imagenes\logo.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\list.png" archivePath="imagenes\list.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\logo_pequeno.png" archivePath="imagenes\logo_pequeno.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\burgerMenu.png" archivePath="imagenes\burgerMenu.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\pharmacy.png" archivePath="imagenes\pharmacy.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\pharmacy2.png" archivePath="imagenes\pharmacy2.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\imagenes\pills.png" archivePath="imagenes\pills.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="7/8/2016 10:10:43 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/9/2016 12:08:23 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/8/2016 10:10:41 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\packages\WPToolkit.4.2013.06.11\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="7/8/2016 10:10:57 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="7/8/2016 10:10:56 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="7/8/2016 10:10:56 PM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/9/2016 12:08:23 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="7/9/2016 12:55:03 AM" />
+  <file source="C:\Users\IINTEGRAZI EIRL\Desktop\GIT\Farma.pe\Farma.pe\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="7/9/2016 12:26:13 AM" />
+=======
+﻿<xapCache source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\Farma.pe_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="09/07/2016 0:47:48">
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="09/07/2016 0:44:49" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\obj\Debug\Farma.pe.dll" archivePath="Farma.pe.dll" lastWriteTime="09/07/2016 0:47:47" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\1.png" archivePath="imagenes\farmacias\1.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\10.png" archivePath="imagenes\farmacias\10.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\11.png" archivePath="imagenes\farmacias\11.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\12.png" archivePath="imagenes\farmacias\12.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\13.png" archivePath="imagenes\farmacias\13.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\14.png" archivePath="imagenes\farmacias\14.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\15.png" archivePath="imagenes\farmacias\15.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\16.png" archivePath="imagenes\farmacias\16.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\17.png" archivePath="imagenes\farmacias\17.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\18.png" archivePath="imagenes\farmacias\18.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\19.png" archivePath="imagenes\farmacias\19.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\2.png" archivePath="imagenes\farmacias\2.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\20.png" archivePath="imagenes\farmacias\20.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\3.png" archivePath="imagenes\farmacias\3.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\4.png" archivePath="imagenes\farmacias\4.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\5.png" archivePath="imagenes\farmacias\5.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\6.png" archivePath="imagenes\farmacias\6.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\7.png" archivePath="imagenes\farmacias\7.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\8.png" archivePath="imagenes\farmacias\8.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\farmacias\9.png" archivePath="imagenes\farmacias\9.png" lastWriteTime="08/07/2016 23:55:56" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\flechaDerecha.png" archivePath="imagenes\flechaDerecha.png" lastWriteTime="08/07/2016 21:36:26" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\calendar.png" archivePath="imagenes\calendar.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\logo.png" archivePath="imagenes\logo.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\list.png" archivePath="imagenes\list.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\logo_pequeno.png" archivePath="imagenes\logo_pequeno.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\burgerMenu.png" archivePath="imagenes\burgerMenu.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\pharmacy.png" archivePath="imagenes\pharmacy.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\pharmacy2.png" archivePath="imagenes\pharmacy2.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\pills.png" archivePath="imagenes\pills.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\imagenes\pin.png" archivePath="imagenes\pin.png" lastWriteTime="09/07/2016 0:44:26" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="08/07/2016 22:10:48" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="08/07/2016 19:33:21" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\packages\WPToolkit.4.2013.06.11\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="08/07/2016 19:33:25" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="08/07/2016 19:33:25" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="08/07/2016 19:33:25" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="08/07/2016 22:10:48" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="09/07/2016 0:47:48" />
+  <file source="C:\Users\Paul\Documents\GitHub\Farma2.pe\Farma.pe\Farma.pe\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="09/07/2016 0:44:49" />
+>>>>>>> e0b420de37fb702df107be7c8cd3eafba02deeb9
+</xapCache>

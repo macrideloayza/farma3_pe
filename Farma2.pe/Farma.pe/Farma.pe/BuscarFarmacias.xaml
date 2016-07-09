@@ -1,0 +1,64 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Farma.pe"
+    x:Class="Farma.pe.BuscarFarmacias"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,10" Background="#FF4A9BC6">
+
+
+            <ListBox x:Name="lbFarmacia" Margin="10,158,0,10">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderThickness="2" BorderBrush="White" Background="#FFEFF0F5" Height="164">
+                            <StackPanel Orientation="Horizontal" Width="446" Margin="0,0,0,-2" Tap="tapBuscar" >
+                                <Image Source="{Binding rutaImagen}" Margin="10,0,0,0" Width="72" Height="70" RenderTransformOrigin="0.433,0.617" />
+                                <StackPanel Orientation="Vertical" Background="#FFEFF0F5" Width="298" Margin="0,0,0,-23">
+                                    <TextBlock Text="{Binding NOM_FAR}"  FontSize="40" Margin="22,5,0,0" Foreground="#FF554E4E" Height="62"/>
+                                    <TextBlock Text="{Binding DIR_FAR}" FontSize="20" Foreground="#FF705C5C" Height="44" Margin="30,0,0,0" RenderTransformOrigin="0.533,0.66" />
+                                    <TextBlock Text="{Binding HORARIO_FAR}" FontSize="20" Foreground="#FF705C5C" Height="44" RenderTransformOrigin="0.533,0.66" HorizontalAlignment="Right" Width="268" />
+                                </StackPanel>
+                                <Image Source="{Binding rutaFlecha}" Margin="10,0,0,0" Width="50" Height="50" RenderTransformOrigin="0.433,0.617" />
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                    <!--<DataTemplate>
+                        <Border BorderThickness="2" BorderBrush="White" Background="#FFEFF0F5">
+                            <StackPanel Orientation="Horizontal" Width="446">
+                                <Image Source="{Binding rutaImagen}" Margin="10,0,0,0" Width="72" Height="70" RenderTransformOrigin="0.433,0.617" />
+                                <StackPanel Orientation="Vertical" Background="#FFEFF0F5" Height="120" Width="298">
+                                    <TextBlock Text="{Binding NOM_FAR}"  FontSize="40" Margin="22,5,0,0" Foreground="#FF554E4E" Height="62"/>
+                                    <TextBlock Text="{Binding DIR_FAR}" FontSize="20" Width="auto" Foreground="#FF705C5C" Height="44" Margin="30,0,90,0"  />
+                                    <TextBlock Text="{Binding HORARIO_FAR}" FontSize="20" Width="auto" Foreground="#FF705C5C" Height="44" Margin="30,0,90,0"  />
+                                </StackPanel>
+                                <Image Source="{Binding rutaFlecha}" Margin="10,0,0,0" Width="50" Height="50" RenderTransformOrigin="0.433,0.617" />
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>-->
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Button x:Name="btnFiltrar" HorizontalAlignment="Left" Margin="366,81,0,0" VerticalAlignment="Top" Click="btnFiltrar_Click" Width="80">
+                <Image x:Name="image" Height="32" Width="25" Source="/imagenes/pharmacy.png" RenderTransformOrigin="3.652,0.144"/>
+            </Button>
+            <TextBox x:Name="txtFiltro" HorizontalAlignment="Left" Height="72" Margin="4,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="362"/>
+            <local:MenuBarraSuperior HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="446"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
